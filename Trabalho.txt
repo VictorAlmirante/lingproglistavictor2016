@@ -283,7 +283,7 @@ Fernando
 Questão 4:
 
 - Instruções: 
-1: Copiar o código abaixo para o compilador Genie e salvá-lo como "rnd.sh"
+1: Copiar o código abaixo para o Genie e salvá-lo como "rnd.sh"
 2: Para compilar o programa, acesse a pasta na qual o programa foi salvo através do terminal do Linux, e digite "chmod +x rnd.sh".
 Em seguida, para executá-lo, digite "./rnd.sh", ainda no terminal.
 3: Ao executar o programa, digite o link do site cujas imagens você deseja baixar.
